@@ -557,11 +557,6 @@ We built Data Visualization web appliacation by using streamlit. It is one of th
 
 
 
-https://github.com/COSS-INDIA/CovidApp-Repo/blob/master/Final%20HLD%20CovTrack.png
-
-
-
-
 
 
 
