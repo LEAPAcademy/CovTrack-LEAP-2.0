@@ -70,8 +70,7 @@ Collect data from the firebase as .csv or .xlsx for visualization using iventura
 
 # High Level Design:
 
-![alt tag](https://github.com/LEAPAcademy/CovTrack-LEAP-2.0/blob/master/Final%20HLD%20CovTrack.png
-)
+![alt tag](https://https://github.com/LEAPAcademy/CovTrack-LEAP-2.0/blob/main/Final%20HLD%20CovTrack.png)
 
 
 APP Introduction
