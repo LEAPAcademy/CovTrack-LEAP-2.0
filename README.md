@@ -70,7 +70,7 @@ Collect data from the firebase as .csv or .xlsx for visualization using iventura
 
 # High Level Design:
 
-![alt tag](https://github.com/COSS-INDIA/CovidApp-Repo/blob/master/Final%20HLD%20CovTrack.png
+![alt tag](https://github.com/LEAPAcademy/CovTrack-LEAP-2.0/blob/master/Final%20HLD%20CovTrack.png
 )
 
 
@@ -84,7 +84,7 @@ So we came up with app to help the people.
 Login Page
 -----------
 
-![alt tag](https://github.com/COSS-INDIA/CovidApp-Repo/blob/master/Login%20Page.jpeg)
+![alt tag](https://github.com/LEAPAcademy/CovTrack-LEAP-2.0/blob/master/Login%20Page.jpeg)
 
 
 Code in XML:
@@ -185,7 +185,7 @@ Code in XML:
     
  Registration Page:
  
- ![alt tag](https://github.com/COSS-INDIA/CovidApp-Repo/blob/master/Registration%20Page.jpeg)
+ ![alt tag](https://github.com/LEAPAcademy/CovTrack-LEAP-2.0/blob/master/Registration%20Page.jpeg)
  
  
  Code in XML
